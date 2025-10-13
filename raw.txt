@@ -1,0 +1,133 @@
+AI Without Strategy: Why Handing Out Enterprise Accounts Isn’t Enough
+What this article covers
+•	how many companies are adopting AI in a disorganized way
+•	why AI, without vision and culture, becomes just another interface
+•	two underestimated risks: workslop and cognitive dilution
+•	the leadership roles needed to govern AI adoption
+•	and a simple case — electronic invoice routing — to show how to really get started
+______________________________________________________________________________
+
+After my first article on GEO, I received dozens of messages and calls — from managers, recruiters, consultants.
+All curious, many enthusiastic, some a little confused.
+And almost everyone, at some point in the conversation, said the same thing:
+“We’ve activated ChatGPT Enterprise for everyone. Or Copilot. Or Gemini. And now we’re figuring out how to use it.”
+That has become the new mantra of corporate AI adoption: create enterprise accounts, distribute them, and hope something smart happens.
+But it doesn’t happen.
+At least, not in the way it should.
+Let’s be clear: AI isn’t a platform — it’s a socio-technical system.
+Without strategic direction — vision, governance, and shared goals — it becomes just another interface.
+A few weeks ago, I completed the Artificial Intelligence: Implications for Business Strategy program at the MIT Sloan School of Management, and here I’d like to share some reflections that may sound familiar — or at least useful.
+
+The Paradox of Top-Down Adoption
+Over the past months, I’ve seen a recurring pattern: companies pushing AI from the top, but in a chaotic way.
+Licenses bought in bulk, no integration plan, no training.
+The implicit goal seems to be “don’t fall behind.”
+But in the rush to look modern, many have forgotten to ask why.
+As MIT professor David Autor reminds us, “the measure of a technology isn’t how fast or cheap it is, but how transformative.”
+AI doesn’t exist to help us do what we already do — only faster.
+It exists to make us capable of doing what was previously impossible.
+Too often, though, organizations confuse technology adoption with organizational transformation — two concepts that couldn’t be more different.
+As Thomas Malone of MIT Sloan writes, “Most organizations today are far less intelligent than they could be.”
+And simply adding a layer of AI won’t change that.
+We need to build collective intelligence — people, data, processes, and machines that learn and reason together.
+That’s precisely what MIT researchers Isabella Loaiza and Roberto Rigobon describe as the EPOCH capabilities: Empathy, Presence, Opinion, Creativity, and Hope — the human qualities AI can’t replicate and that, if cultivated, become a competitive advantage in any intelligent transformation.
+Without them, AI becomes just an amplifier of disorganization.
+I want to stress this point: organized collaboration between humans and machines can bring enormous benefits to both companies and people — but only if it’s implemented with awareness, inside a clear strategy that puts business needs and people’s growth at the center.
+
+Two Underestimated Risks
+1) Workslop
+As Harvard Business Review defined it, workslop is what happens when technology, instead of simplifying work, creates more of it.
+It’s widespread in companies that adopt AI with no governance: you receive an email, a report, a PowerPoint deck that looks perfect — until you read it and realize something’s off.
+You double-check data and sources, find errors, and end up redoing it from scratch.
+On one side, someone produces things faster. On the other, someone else spends twice as long reviewing and correcting them.
+Result: more chaos.
+A simple rule of thumb: you know you have workslop when verification and correction take more than a third of total production time, or when the number of re-generated deliverables grows beyond 1.3× the pre-AI baseline.
+It’s not a universal law — it’s an heuristic to spot when technology is multiplying complexity instead of reducing it.
+AI was supposed to save us time; in many organizations, it’s simply giving it back in the form of structured confusion.
+
+2) Cognitive Dilution
+This second risk is subtler — but possibly more dangerous.
+Working with AI creates immediate efficiency, but it reduces memory and awareness.
+Projects, emails, presentations — everything gets done faster, but less is retained.
+When we delegate too much, we stop learning. And when we stop learning, we stop growing — as individuals and as organizations.
+If you establish learning loops, the opposite happens: performance rises.
+A study cited by Autor, conducted by MIT researchers Shakked Noy and Whitney Zhang, showed that ChatGPT not only accelerates work but “makes less-skilled workers perform more like highly skilled ones.”
+It’s a clear example of how, used consciously, AI can close skill gaps instead of widening them.
+But to achieve that, we need a continuous feedback and learning system — otherwise productivity rises while knowledge thins out.
+Practical Antidotes (3 moves):
+•	Two-pass review: first generation, then human rewrite in five bullet points.
+•	AI log: for every output, record the final prompt, sources, and three editing decisions made by humans.
+•	Teach-back: whoever delivers the work explains, in 90 seconds, what they’ve learned — not just what they’ve produced.
+That’s how the human-AI system truly thinks, perceives, acts, and learns.
+If either side stops learning, the balance breaks — and we create hyper-active yet hypo-cognitive organizations.
+
+The Governance Void
+The solution isn’t just technical — it’s managerial.
+Talking with recruiters, I often hear the same line:
+“Almost no company is hiring anyone to manage AI adoption. Only consulting firms are.”
+The result? A governance vacuum.
+No AI Owner, no Chief AI Officer, no cross-functional committee to guide adoption.
+Everyone works “by tool,” not “by objective.”
+The predictable outcomes: overlapping initiatives, inconsistent output, data-security risks, zero accountability.
+As the MIT course phrased it, “Collections of people and computers will be smarter than either alone.”
+But only if someone orchestrates the collaboration.
+Without clear rules, every prompt becomes an undeclared corporate policy.
+Every company should establish a governance taskforce to define, implement, and supervise AI initiatives — a steering group at the highest level:
+CEO → goals & budget
+Head of AI → roadmap & quality
+CTO → security & integration
+Head of HR → upskilling & policy
+Head of Legal → risk, audit, privacy
+An additional risk, highlighted by MIT Sloan professor Kate Kellogg, is delegating AI adoption to the youngest employees simply because they’re “digital natives.”
+Research shows that, without senior oversight that understands both the logic of the systems and their organizational impact, AI tends to be managed with novice tactics: lots of enthusiasm, little strategy.
+That’s why executive endorsement is more critical than ever.
+
+From Chaos to Method: A Five-Step Framework
+To move beyond this chaotic phase, we need method — a clear, progressive, adaptable framework.
+What follows is an operational synthesis inspired by MIT Sloan’s approach, simplified for real-world contexts — even outside tech.
+1.	Purpose — Define the Why
+Why adopt AI? To reduce costs, improve service, free up time, innovate models?
+Without a shared “why,” every license is a blind investment.
+2.	People — Engage and Educate
+AI isn’t (only) for IT. We need broad literacy and internal AI Champions who bridge technology and business.
+As Nick van der Meulen (MIT CISR) reminds us, skills are dynamic: what makes you effective today won’t be enough in five years.
+AI requires continuous learning and horizontal career paths — more of a lattice than a ladder — where people move, experiment, and cross-pollinate ideas.
+3.	Process — Choose the Right Starting Points
+Don’t start from the tool, start from the process.
+Identify repetitive, low-value activities where AI can have an immediate impact.
+But frame adoption within a long-term roadmap aligned with real business needs: innovation only matters when it serves the mission.
+4.	Platform — Build on Solid Foundations
+Interoperable infrastructures, API-first, security by design, and above all, strong data management.
+AI shouldn’t be an add-on, but a connective layer across systems. Only then does it become a multiplier — not another silo.
+5.	Policy — Govern and Measure
+Define clear rules on ethics, privacy, and accountability.
+Establish who can do what with AI and how impacts are evaluated.
+Governance isn’t bureaucracy — it’s freedom with boundaries.
+
+From Method to Practice: A Simple Case
+To see how this framework works in practice, let’s start with a simple, real example: electronic invoice management.
+It’s a repetitive, well-documented administrative process — perfect for intelligent automation.
+In many organizations, invoice routing and validation still require dozens of human hours per week.
+Each document must be classified (supplier, expense type, cost center, urgency), checked, and sent to the right approver — high-effort, low-value work.
+With an AI-driven approach, you can train a supervised machine-learning model on historical data — thousands of standardized XML invoices already labeled by cost center and approval path — and automate the entire flow: reading, classification, routing, and validation.
+Applying the framework:
+•	Purpose: cut processing time and errors, freeing resources for higher-value work.
+•	People: involve Finance and IT from day one, with an internal AI Champion overseeing data quality.
+•	Process: start with the most standard sub-process (recurring-service invoices), then expand.
+•	Platform: integrate the ML model with the ERP and an RPA system for execution.
+•	Policy: define who can validate exceptions, how errors are handled, and how accuracy is measured.
+Outcomes (typical range):
+– 60% reduction in average processing time
+– 40% reduction in classification errors
+and a clear improvement in traceability and compliance.
+It’s a small example but it proves the point: you don’t need a moonshot — just a clear process, clean data, and a measurable strategy.
+
+Conclusion — AI Isn’t an Upgrade, It’s an Organizational Project
+AI adoption isn’t an IT project.
+It’s an organizational project.
+Rolling out enterprise accounts doesn’t mean you’re ready; it only means you’ve paid the entry fee.
+The real work starts afterward: building processes, roles, and metrics that make AI part of the culture, not just the infrastructure.
+As David Autor puts it, “The real question isn’t what AI will do — it’s how we decide to use it.”
+That’s where the distance is measured — between those who merely undergo change and those who lead it.
+In the decade ahead, the most intelligent organizations won’t be those with more models, but those with more method.
+
